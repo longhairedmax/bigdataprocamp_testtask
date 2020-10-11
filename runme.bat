@@ -1,0 +1,2 @@
+python bigdataprocamp_testtask.py
+pause
